@@ -52,18 +52,8 @@
 
 <strong>Figura 12.</strong> Visualización de la Simulación de Pepper.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 2. Búsqueda conceptual y despliegue
+
+### 2.1 Búsqueda conceptual (Kubernete)
+
+### 2.2 Despliegue
