@@ -10,11 +10,11 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_dbec4334](https://github.com/user-attachments/assets/e3a90039-17c6-4652-b374-761a7faecc06)</br>
 
-<strong>Figura 2.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 2.</strong> Actualización de los paquetes.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_6b9fa262](https://github.com/user-attachments/assets/09a83d8a-f359-4336-a9a8-6182c0749d53)</br>
 
-<strong>Figura 3.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 3.</strong> Crear un nuevo entorno virtual.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_5f9418ea](https://github.com/user-attachments/assets/dc3452dc-47b5-4fe7-ab62-a8908ee4272f)</br>
 
