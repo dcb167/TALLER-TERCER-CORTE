@@ -26,7 +26,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_5e769b8f](https://github.com/user-attachments/assets/d7363135-a3c0-4d50-b93f-c9a478d13817)</br>
 
-<strong>Figura 6.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 6.</strong> Accediendo al respectivo directorio.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_94008d90](https://github.com/user-attachments/assets/776e108b-c1ed-4c5d-a8d3-97dd4358a687)</br>
 
