@@ -38,7 +38,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_480bec3b](https://github.com/user-attachments/assets/a3d72b13-2598-4910-ae17-11cebdc2be15)</br>
 
-<strong>Figura 9.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 9.</strong> Visualización de la Simulación de Dancer.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_871b9ab3](https://github.com/user-attachments/assets/ca7f15c4-fba6-483d-86fc-f8b5ba82f8d6)</br>
 
