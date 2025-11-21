@@ -1,6 +1,8 @@
 # TALLER TERCER CORTE
 
-## 1. Simulación de los Robots de Softbank Robotics 
+## Elaborado por: Laura Rodriguez y Diana Bernal
+
+### 1. Simulación de los Robots de Softbank Robotics 
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 29_c1125374](https://github.com/user-attachments/assets/06130f7e-c4cd-4341-9c73-af84e3aed1e5)</br>
 
