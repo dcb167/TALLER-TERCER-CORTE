@@ -46,7 +46,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_58400a26](https://github.com/user-attachments/assets/a5ea7d3b-59ca-4037-83b3-aabe0a6c4532)</br>
 
-<strong>Figura 11.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 11.</strong> Visualización de la Simulación de Romeo.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 32_e223d60d](https://github.com/user-attachments/assets/55f19d93-fe92-4eb6-9afa-bb17062d8c9e)</br>
 
