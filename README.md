@@ -6,7 +6,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 29_c1125374](https://github.com/user-attachments/assets/06130f7e-c4cd-4341-9c73-af84e3aed1e5)</br>
 
-<strong>Figura 1.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 1.</strong> Crear un nuevo directorio en Ubuntu.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_dbec4334](https://github.com/user-attachments/assets/e3a90039-17c6-4652-b374-761a7faecc06)</br>
 
