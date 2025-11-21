@@ -42,7 +42,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_871b9ab3](https://github.com/user-attachments/assets/ca7f15c4-fba6-483d-86fc-f8b5ba82f8d6)</br>
 
-<strong>Figura 10.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 10.</strong> Visualización de la Simulación de Nao.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_58400a26](https://github.com/user-attachments/assets/a5ea7d3b-59ca-4037-83b3-aabe0a6c4532)</br>
 
