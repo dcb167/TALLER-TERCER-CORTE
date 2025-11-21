@@ -18,11 +18,11 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_5f9418ea](https://github.com/user-attachments/assets/dc3452dc-47b5-4fe7-ab62-a8908ee4272f)</br>
 
-<strong>Figura 4.</strong>Instalación de las respectivas dependencias.
+<strong>Figura 4.</strong> Instalación de las respectivas dependencias.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_986382e3](https://github.com/user-attachments/assets/3737d642-3e07-4684-819c-7ce321f5b6c0)</br>
 
-<strong>Figura 5.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 5.</strong> Instalación de la librería pybullet en Ubuntu.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 30_5e769b8f](https://github.com/user-attachments/assets/d7363135-a3c0-4d50-b93f-c9a478d13817)</br>
 
