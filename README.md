@@ -4,6 +4,8 @@
 
 ### 1. Simulación de los Robots de Softbank Robotics 
 
++ A continuación, es posible evidenciar el proceso para desarrollar la simulación de los robots de softbank robotics del respositorio denominado: "Humanoid Gym" y su respectivo despliegue en Docker:
+
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 29_c1125374](https://github.com/user-attachments/assets/06130f7e-c4cd-4341-9c73-af84e3aed1e5)</br>
 
 <strong>Figura 1.</strong> Crear un nuevo directorio en Ubuntu.
