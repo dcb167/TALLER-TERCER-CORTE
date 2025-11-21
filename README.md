@@ -30,7 +30,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_94008d90](https://github.com/user-attachments/assets/776e108b-c1ed-4c5d-a8d3-97dd4358a687)</br>
 
-<strong>Figura 7.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 7.</strong> Crear los respectivos archivos para la Visualización de los Robots.
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 31_3ae34434](https://github.com/user-attachments/assets/511c82fc-75ca-426d-81b0-9b2bcae4b3aa)</br>
 
