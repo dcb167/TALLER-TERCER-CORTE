@@ -50,7 +50,7 @@
 
 ![Imagen de WhatsApp 2025-11-21 a las 14 25 32_e223d60d](https://github.com/user-attachments/assets/55f19d93-fe92-4eb6-9afa-bb17062d8c9e)</br>
 
-<strong>Figura 12.</strong> Visualización de la Implementación en Python (1).
+<strong>Figura 12.</strong> Visualización de la Simulación de Pepper.
 
 
 
