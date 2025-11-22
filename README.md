@@ -201,4 +201,8 @@ Kubernete:
 Docke:
 
 + Docker Inc. (2024). Docker Documentation. Recuperado de https://docs.docker.com
-+ Merkel, D. (2014). Docker: lightweight Linux containers for consistent development and deployment. Linux Journal. 
++ Merkel, D. (2014). Docker: lightweight Linux containers for consistent development and deployment. Linux Journal.
+
+### ITEM 3: Juego 
+
+
