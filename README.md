@@ -58,4 +58,37 @@
 
 ### 2.1 Búsqueda conceptual (Kubernete)
 
+##### ¿Que es Kubernete?
+En palabras mas senceillas Kebernete es una plataforma de orquestación de contenedores diseñada para automatizar:
++ El despliegue
++ La gestión
++ La escalabilidad
++ La recuperación ante fallos
+de aplicaciónes empaquetadas de contenedores.
+
+Fue creado por Google y hoy es mantenido por la Cloud Native Computing Foundation (CNCF).
+
+##### Caracteristicas;
+
+1. Alta disponibilidad (High Availability)
+El clúster se replica y se auto-recupera cuando un nodo falla.
+
+2. Escalabilidad automática (Auto-Scaling)
+Aumenta o reduce la cantidad de Pods dependiendo de la demanda.
+
+3. Auto-reparación (Self-Healing)
+Si un contenedor falla, Kubernetes lo reemplaza automáticamente.
+
+4. Balanceo de carga
+Distribuye tráfico entre Pods para garantizar rendimiento.
+
+5. Automatización en el despliegue
+Permite hacer rolling updates y rollbacks.
+
+6. Observabilidad
+Incluye monitoreo, registros y métricas integradas.
+
+7. Desacoplamiento del hardware
+Funciona en nubes públicas, privadas o infraestructura local.
+
 ### 2.2 Despliegue
