@@ -54,9 +54,9 @@
 
 <strong>Figura 12.</strong> Visualización de la Simulación de Pepper.
 
-## 2. Búsqueda conceptual y despliegue
+## 3. Búsqueda conceptual y despliegue
 
-### 2.1 Búsqueda conceptual (Kubernete)
+### 3.1 Búsqueda conceptual (Kubernete)
 
 ##### ¿Que es Kubernete?
 En palabras mas senceillas Kebernete es una plataforma de orquestación de contenedores diseñada para automatizar:
