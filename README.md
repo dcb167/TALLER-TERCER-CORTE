@@ -205,4 +205,10 @@ Docke:
 
 ### ITEM 3: Juego 
 
+1. Inicamos creando el directorio del juego:
+<img width="1342" height="77" alt="imagen" src="https://github.com/user-attachments/assets/f18ead61-9dfe-4ca2-9d45-98bb3f251ea6" />
 
+2. Ahora creamos el archivo server.js:
+<img width="1461" height="811" alt="imagen" src="https://github.com/user-attachments/assets/41b8d5f3-ea14-4929-a270-5e4a52a7326e" />
+
+3. 
