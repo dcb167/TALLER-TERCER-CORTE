@@ -132,3 +132,20 @@ Kubernetes no crea contenedores, sino que los orquesta.
 + Kubernetes: gestiona miles de contenedores en clusters.
 
 Kubernetes usa contenedores (Docker, containerd o CRI-O) como unidades de ejecución, pero agrega capacidades que Docker solo no tiene
+
+### ITEM 2: Contenedores
+##### ¿Que es Docker?
+Docker es una plataforma para empaquetar, distribuir, ejecutar aplicaciones dentro de contenedores, los cuales son unidades ligeras, portables y aisladas.
+###### Conceptos claves de Docker:
+
++ Imagen: Es una plantilla: contiene el sistema base y la aplicación.
+
++ Contenedor: Instancia ejecutable creada a partir de una imagen.
+
++ Dockerfile: Archivo de instrucciones para crear una imagen.
+
++ Registry: Repositorio de imágenes (ej: Docker Hub).
+
+##### ¿Como crear contenedores?
+
+
