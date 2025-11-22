@@ -218,5 +218,9 @@ Docke:
 <img width="1390" height="433" alt="imagen" src="https://github.com/user-attachments/assets/1de9ee36-2676-4bb1-b313-cde97f339a6a" />
 <img width="1387" height="278" alt="imagen" src="https://github.com/user-attachments/assets/03fa6d53-bd38-4822-90db-1e5eef40560e" />
 
+5. Crear el Deployment en Kubernete: Crear el archivo juego-deployment.yaml
+<img width="1353" height="500" alt="imagen" src="https://github.com/user-attachments/assets/d642790d-e252-4f5a-8693-d3bc7cb96464" />
 
-5. 
+Aplicar el deployment:
+
+6. 
