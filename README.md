@@ -222,5 +222,6 @@ Docke:
 <img width="1353" height="500" alt="imagen" src="https://github.com/user-attachments/assets/d642790d-e252-4f5a-8693-d3bc7cb96464" />
 
 Aplicar el deployment:
+<img width="1864" height="136" alt="imagen" src="https://github.com/user-attachments/assets/6d972c52-5214-4eb9-b2f2-f6e47b20bc91" />
 
 6. 
