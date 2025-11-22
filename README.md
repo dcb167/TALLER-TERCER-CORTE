@@ -148,4 +148,13 @@ Docker es una plataforma para empaquetar, distribuir, ejecutar aplicaciones dent
 
 ##### ¿Como crear contenedores?
 
+Primero se inicia con la instalación de Docker usando los siguientes comandos, incluidos los de autorizar permisos:
+
+sudo apt update
+sudo apt install docker.io -y
+sudo systemctl enable --now docker
+sudo usermod -aG docker $USER
+
+En este caso ya se tenia instalado Docker, como podemos observar a continuación:
+<img width="1066" height="823" alt="imagen" src="https://github.com/user-attachments/assets/8aac2713-fa9a-451d-a5fd-4ff90bb57748" />
 
