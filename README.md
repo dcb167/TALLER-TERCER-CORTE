@@ -215,3 +215,8 @@ Docke:
 <img width="1366" height="327" alt="imagen" src="https://github.com/user-attachments/assets/7ecb50c5-531f-40ca-891e-02a50b87aba1" />
 
 4. Construcción de la imagen Docker:
+<img width="1390" height="433" alt="imagen" src="https://github.com/user-attachments/assets/1de9ee36-2676-4bb1-b313-cde97f339a6a" />
+<img width="1387" height="278" alt="imagen" src="https://github.com/user-attachments/assets/03fa6d53-bd38-4822-90db-1e5eef40560e" />
+
+
+5. 
