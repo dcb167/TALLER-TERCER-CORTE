@@ -166,4 +166,15 @@ En este caso ya se tenia instalado Docker, como podemos observar a continuación
 A continuación observamos que ya se creo el archivo y con "cd" podemos estar dentro de este mismo:
 <img width="1055" height="81" alt="imagen" src="https://github.com/user-attachments/assets/9e162779-5f54-42c4-bdf5-2e25128029bb" />
 
-3. 
+3. Creamos el Dockerfile dentro del archivo con el comando:
+
++ nano Dockefile
+
+Al ejecutar lo anterios, se abre una terminal para editar el dockerfile y escribimos lo que queremos que se ejecute, como se ve a continuación:
+<img width="1864" height="903" alt="imagen" src="https://github.com/user-attachments/assets/01d8a970-2d04-46e3-a042-b69f763c3ecc" />
+
+Se guarda  el archivo con cntrl + o, enter, y luego cntrl + x
+<img width="1317" height="60" alt="imagen" src="https://github.com/user-attachments/assets/dca041b7-da28-43a9-8dd7-48fd4a687b29" />
+
+4. 
+
