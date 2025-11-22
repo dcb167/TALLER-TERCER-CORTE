@@ -191,4 +191,14 @@ La construcción de la imagen siempre tarda un poco mas en cargar, si al final t
 Al ejecutar este comando ya nos deberia aparecer el comentario que se puso dentro del archivo del Dockerfile, como se ve aqui:
 <img width="1219" height="82" alt="imagen" src="https://github.com/user-attachments/assets/dcbc1ea8-fc35-4819-899d-6de83dc413a8" />
 
+### Referencias:
 
+Kubernete:
+
++ Cloud Native Computing Foundation. (2024). Kubernetes Documentation. Recuperado de https://kubernetes.io/docs
++ Burns, B., Grant, B., Oppenheimer, D., Brewer, E., & Wilkes, J. (2016). Borg, Omega, and Kubernetes. Communications of the ACM.
+
+Docke:
+
++ Docker Inc. (2024). Docker Documentation. Recuperado de https://docs.docker.com
++ Merkel, D. (2014). Docker: lightweight Linux containers for consistent development and deployment. Linux Journal. 
