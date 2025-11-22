@@ -184,6 +184,11 @@ La construcción de la imagen siempre tarda un poco mas en cargar, si al final t
 <img width="1194" height="384" alt="imagen" src="https://github.com/user-attachments/assets/7224565f-5e6a-47aa-b717-c2304af5dd02" />
 <img width="1198" height="333" alt="imagen" src="https://github.com/user-attachments/assets/ab32d438-a3ca-4d7d-99e6-0b86a6147cf7" />
 
+4. Ahora iniciamos con la ejecucion:
 
++ docker run miapp:v1
+
+Al ejecutar este comando ya nos deberia aparecer el comentario que se puso dentro del archivo del Dockerfile, como se ve aqui:
+<img width="1219" height="82" alt="imagen" src="https://github.com/user-attachments/assets/dcbc1ea8-fc35-4819-899d-6de83dc413a8" />
 
 
