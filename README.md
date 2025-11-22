@@ -211,4 +211,7 @@ Docke:
 2. Ahora creamos el archivo server.js:
 <img width="1461" height="811" alt="imagen" src="https://github.com/user-attachments/assets/41b8d5f3-ea14-4929-a270-5e4a52a7326e" />
 
-3. 
+3. Creamos el Dockerfile:
+<img width="1366" height="327" alt="imagen" src="https://github.com/user-attachments/assets/7ecb50c5-531f-40ca-891e-02a50b87aba1" />
+
+4. Construcción de la imagen Docker:
