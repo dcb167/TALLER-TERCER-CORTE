@@ -70,25 +70,49 @@ Fue creado por Google y hoy es mantenido por la Cloud Native Computing Foundatio
 
 ##### Caracteristicas;
 
-1. Alta disponibilidad (High Availability)
+1. Alta disponibilidad (High Availability):
 El clúster se replica y se auto-recupera cuando un nodo falla.
 
-2. Escalabilidad automática (Auto-Scaling)
+2. Escalabilidad automática (Auto-Scaling):
 Aumenta o reduce la cantidad de Pods dependiendo de la demanda.
 
-3. Auto-reparación (Self-Healing)
+3. Auto-reparación (Self-Healing):
 Si un contenedor falla, Kubernetes lo reemplaza automáticamente.
 
-4. Balanceo de carga
+4. Balanceo de carga:
 Distribuye tráfico entre Pods para garantizar rendimiento.
 
-5. Automatización en el despliegue
+5. Automatización en el despliegue:
 Permite hacer rolling updates y rollbacks.
 
-6. Observabilidad
+6. Observabilidad:
 Incluye monitoreo, registros y métricas integradas.
 
 7. Desacoplamiento del hardware
 Funciona en nubes públicas, privadas o infraestructura local.
 
+##### Arquitectura general:
+
+###### Master Node (Control Plane):
+Coordina el clúster en cual incluye:
+
++ API Server: Puerta de entrada al clúster
++ Scheduler: Decide dónde ejecutar Pods
++ Controller Manager: Tareas automáticas del sistema
++ etcd: Base de datos distribuida de estado del clúster
+
+###### Worker Nodes
+Cada nodo ejecuta contenedores y contiene:
+
++ Kubelet: Agente que controla los Pods
++ Kube-Proxy: Red interna y balanceo
++ Runtime de contenedores: Docker, containerd, CRI-O
+
+###### Objetos clave dentro del clúster:
+
++ Pod: Unidad más pequeña: contiene uno o varios contenedores
++ Deployment: Gestiona replicas, actualizaciones y rollback
++ Service: Expone Pod(s) dentro o fuera del clúster
++ Namespace: Aislamiento lógico dentro del clúster
++ ConfigMap/Secret: Configuración externa y variables
 ### 2.2 Despliegue
