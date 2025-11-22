@@ -176,5 +176,14 @@ Al ejecutar lo anterios, se abre una terminal para editar el dockerfile y escrib
 Se guarda  el archivo con cntrl + o, enter, y luego cntrl + x
 <img width="1317" height="60" alt="imagen" src="https://github.com/user-attachments/assets/dca041b7-da28-43a9-8dd7-48fd4a687b29" />
 
-4. 
+4. Luego, de haber creado el dockerfile, procedemos a cronstruir la imagen:
+
++ docker build -t miapp:v1 .
+
+La construcción de la imagen siempre tarda un poco mas en cargar, si al final te sale "Successfully built ..." es porque se construyo correctamente, como se ve a continuación:
+<img width="1194" height="384" alt="imagen" src="https://github.com/user-attachments/assets/7224565f-5e6a-47aa-b717-c2304af5dd02" />
+<img width="1198" height="333" alt="imagen" src="https://github.com/user-attachments/assets/ab32d438-a3ca-4d7d-99e6-0b86a6147cf7" />
+
+
+
 
