@@ -115,4 +115,20 @@ Cada nodo ejecuta contenedores y contiene:
 + Service: Expone Pod(s) dentro o fuera del clúster
 + Namespace: Aislamiento lógico dentro del clúster
 + ConfigMap/Secret: Configuración externa y variables
-### 2.2 Despliegue
+
+##### Aplicaciones de Kubernetes:
+
++ Ejecución de microservicios
++ Aplicaciones escalables a demanda
++ Sistemas distribuidos
++ Plataformas empresariales de alta disponibilidad
++ CI/CD (Continuous Integration / Deployment)
++ Procesamiento de datos y machine learning
+
+##### Relación entre Kubernetes y los contenedores:
+Kubernetes no crea contenedores, sino que los orquesta.
+
++ Docker: crea y ejecuta contenedores.
++ Kubernetes: gestiona miles de contenedores en clusters.
+
+Kubernetes usa contenedores (Docker, containerd o CRI-O) como unidades de ejecución, pero agrega capacidades que Docker solo no tiene
