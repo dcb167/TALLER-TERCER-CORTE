@@ -150,18 +150,18 @@ Docker es una plataforma para empaquetar, distribuir, ejecutar aplicaciones dent
 
 1. Primero se inicia con la instalación de Docker usando los siguientes comandos, incluidos los de autorizar permisos:
 
-sudo apt update
-sudo apt install docker.io -y
-sudo systemctl enable --now docker
-sudo usermod -aG docker $USER
++ sudo apt update
++ sudo apt install docker.io -y
++ sudo systemctl enable --now docker
++ sudo usermod -aG docker $USER
 
 En este caso ya se tenia instalado Docker, como podemos observar a continuación:
 <img width="1066" height="823" alt="imagen" src="https://github.com/user-attachments/assets/8aac2713-fa9a-451d-a5fd-4ff90bb57748" />
 
 2. Como segundo paso iniciamos con la creacion del archivo, con los comando que ya habiamos visto en clase:
 
-mkdir miapp
-cd miapp
++ mkdir miapp
++ cd miapp
 
 A continuación observamos que ya se creo el archivo y con "cd" podemos estar dentro de este mismo:
 <img width="1055" height="81" alt="imagen" src="https://github.com/user-attachments/assets/9e162779-5f54-42c4-bdf5-2e25128029bb" />
